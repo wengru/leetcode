@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/3/24 22:56
- */
 public class LeetCode9 {
 
     public boolean isPalindrome(int x) {

@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/3/27 2:55
- */
 public class LeetCode263 {
 
     public boolean isUgly(int n) {

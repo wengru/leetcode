@@ -1,10 +1,6 @@
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-/**
- * @author hanxin
- * @date 2022/5/28 0:08
- */
 public class LeetCode151 {
 
     // stack

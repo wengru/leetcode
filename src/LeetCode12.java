@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/3/24 23:05
- */
 public class LeetCode12 {
 
     public String intToRoman(int num) {

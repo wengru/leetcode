@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/5/27 23:34
- */
 public class LeetCode50 {
 
     // 递归

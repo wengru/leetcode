@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/3/24 22:54
- */
 public class LeetCode5 {
 
     public String longestPalindrome(String s) {

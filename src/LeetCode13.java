@@ -1,10 +1,6 @@
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * @author hanxin
- * @date 2022/3/24 23:05
- */
 public class LeetCode13 {
 
     public int romanToInt(String s) {

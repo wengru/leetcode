@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/3/27 2:15
- */
 public class LeetCode191 {
 
     // you need to treat n as an unsigned value

@@ -1,10 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author hanxin
- * @date 2022/3/24 23:18
- */
 public class LeetCode17 {
     public List<String> letterCombinations(String digits) {
         List<String> res = new ArrayList<>();

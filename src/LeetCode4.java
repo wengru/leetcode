@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/3/24 22:52
- */
 public class LeetCode4 {
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {

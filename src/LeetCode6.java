@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/3/24 22:54
- */
 public class LeetCode6 {
 
     public String convert(String s, int numRows) {

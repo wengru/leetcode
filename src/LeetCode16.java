@@ -1,9 +1,5 @@
 import java.util.Arrays;
 
-/**
- * @author hanxin
- * @date 2022/3/24 23:26
- */
 public class LeetCode16 {
 
     public int threeSumClosest(int[] nums, int target) {

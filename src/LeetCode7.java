@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/3/24 22:55
- */
 public class LeetCode7 {
     public int reverse(int x) {
         if (x == Integer.MIN_VALUE) {

@@ -1,7 +1,3 @@
-/**
- * @author hanxin
- * @date 2022/3/24 23:06
- */
 public class LeetCode14 {
 
     public String longestCommonPrefix(String[] strs) {
