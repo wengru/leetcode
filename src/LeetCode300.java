@@ -21,13 +21,14 @@ public class LeetCode300 {
 //        return res;
 //    }
 
-//  dynamic + binary search
+    //  dynamic + binary search
     public int lengthOfLIS(int[] nums) {
         if (nums == null || nums.length == 0) {
             return 0;
         }
         int[] cell = new int[nums.length];
         int lastIdx = 0;
+        // 数组中第k个位置的元素表示长度为k+1的子串的尾部元素值
         cell[0] = nums[0];
         for (int i=1; i<nums.length; ++i) {
             if (nums[i] > cell[lastIdx]) {
