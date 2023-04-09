@@ -20,7 +20,7 @@ public class LeetCode200 {
 //    }
 //
 //    void dfs(char[][] grid, int y, int x) {
-//        if (y >=0 && y < grid.length && x >=0 && x < grid[y].length && grid[y][x] == '1') {
+//        if (y >=0 && y < grid.length && x >= 0 && x < grid[y].length && grid[y][x] == '1') {
 //            grid[y][x] = '0';
 //            dfs(grid, y+1, x);
 //            dfs(grid, y-1, x);
