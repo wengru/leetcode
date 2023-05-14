@@ -28,7 +28,7 @@ public class TestUtil {
         }
         StringBuilder stringBuilder = new StringBuilder("[");
         for (int i = 0; i < nums.length; i++) {
-            stringBuilder.append(i);
+            stringBuilder.append(nums[i]);
             if (i != nums.length - 1) {
                 stringBuilder.append(", ");
             }
