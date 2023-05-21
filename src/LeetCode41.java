@@ -25,8 +25,9 @@ public class LeetCode41 {
 //        System.out.println(l.firstMissingPositive(new int[]{1,2,0})); // 3
 //        System.out.println(l.firstMissingPositive(new int[]{3,4,-1,1})); // 2
 //        System.out.println(l.firstMissingPositive(new int[]{1})); // 2
-        System.out.println(l.firstMissingPositive(new int[]{1,1})); // 2
+//        System.out.println(l.firstMissingPositive(new int[]{1,1})); // 2
 //        System.out.println(l.firstMissingPositive(new int[]{7,8,9,11,12})); // 1
+        System.out.println(l.firstMissingPositive(new int[]{-1,2,5,3,1})); // 4
     }
 
 }
